@@ -1,0 +1,18 @@
+.flex-container{
+display: flex;
+flex-flow: row wrap;
+}
+.caja3{
+    margin-left: 100px;
+}
+.caja4{
+    text-align: center;
+    width:700px ;
+    height: 210px ;
+    font-weight:bold;
+    margin-top: 160px;
+    line-height: 40px;
+    color: rgb(3, 3, 3);
+    font-family:cursive;
+    font-size: 150%;    
+}
